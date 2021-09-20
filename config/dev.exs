@@ -3,7 +3,7 @@ use Mix.Config
 # Configure your database
 config :learning, Learning.Repo,
   username: "postgres",
-  password: "postgres",
+  password: "adyt123456",
   database: "learning_dev",
   hostname: "localhost",
   show_sensitive_data_on_connection_error: true,
